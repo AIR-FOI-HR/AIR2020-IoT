@@ -1,0 +1,5 @@
+paho-mqtt
+numpy
+smbus
+adafruit-circuitpython-lsm303dlh_mag
+piqtgraph
