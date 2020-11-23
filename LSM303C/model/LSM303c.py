@@ -8,6 +8,7 @@ import numpy as np
 
 
 class Registers:
+
     LSM = 0x1E
     CTRL_REG1 = 0x20
     CTRL_REG2 = 0x21
