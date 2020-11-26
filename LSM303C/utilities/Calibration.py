@@ -54,7 +54,7 @@ class Calibration:
                     self.y.append(rawY)
                     self.z.append(rawZ)
                     self.validPoints += 1
-                print("_________________Točka: {}".format(self.validPoints))
+                print("_________________Point: {}".format(self.validPoints))
 
             return False, x, y, z
         else:

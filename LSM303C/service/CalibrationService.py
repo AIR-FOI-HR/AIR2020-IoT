@@ -15,7 +15,7 @@ class CalibrationService:
         self.calibrationStarted = False
         self.calibrationDone = False
         if cal is not None:
-            print("Kalibracija ucitana")
+            print("Calibration loaded")
             self.calibration.setOffset(cal.offset_x, cal.offset_y, cal.offset_z)
             self.calibration.setScale(cal.scale_x, cal.scale_y, cal.scale_z)
         self.calibrationValid = self.calibration.checkCalibration()

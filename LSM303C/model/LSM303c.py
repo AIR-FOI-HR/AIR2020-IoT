@@ -84,11 +84,11 @@ class LSM303:
             self.checkReferentPoints(xCal, yCal, zCal)
             status = self.calculateStatus(xCal, yCal, zCal)
             if status == Status.OTVOREN.value:
-                print("Prozor je otvoren")
+                print("Window is open")
             if status == Status.ZATVOREN.value:
-                print("Prozor je zatvoren")
+                print("Window is closed")
             if status == Status.KIPER.value:
-                print("Prozor je otvoren na kip")
+                print("Window is partially open")
             lsm = LSM303Dto()
             lsm.x = str(xCal)
             lsm.y = str(yCal)
