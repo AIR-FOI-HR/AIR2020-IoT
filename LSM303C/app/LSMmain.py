@@ -111,9 +111,3 @@ class Main(Thread):
                 i += 1
 
             delay(0.1)
-
-
-if __name__ == '__main__':
-    mqtt = MqttClient.Mqtt(MqttClient._topic)
-    main = Main(mqtt)
-    main.start()
