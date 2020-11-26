@@ -3,3 +3,8 @@ numpy
 smbus
 adafruit-circuitpython-lsm303dlh_mag
 piqtgraph
+flask
+flask_sqlalchemy
+Flask-WTF
+Flask-Restful
+Flask-OAuthlib
