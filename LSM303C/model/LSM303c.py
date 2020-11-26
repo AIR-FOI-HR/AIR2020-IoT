@@ -7,6 +7,7 @@ from model.dto.LSM303Dto import LSM303Dto
 import numpy as np
 from service.CalibrationService import CalibrationService
 import math
+from model.entity.WindowsStatus import Status
 
 
 class Registers:
@@ -45,6 +46,10 @@ class LSM303:
         self.default_setup()
         print("LSM303C I2C initialized")
         self.calibration = CalibrationService()
+        self.otvoren = None
+        self.zatvoren = None
+        self.kip = None
+        self.otvoren, self.zatvoren, self.kip = self.calibration.getAllWindowsStatuses()
 
     def default_setup(self):
         self.configuration1_25()
@@ -76,6 +81,14 @@ class LSM303:
             self.oldZ = z
             print("{}, {}, {}".format(x, y, z))
             xCal, yCal, zCal = self.calibration.calibrateValues(int(x), int(y), int(z))
+            self.checkReferentPoints(xCal, yCal, zCal)
+            status = self.calculateStatus(xCal, yCal, zCal)
+            if status == Status.OTVOREN.value:
+                print("Prozor je otvoren")
+            if status == Status.ZATVOREN.value:
+                print("Prozor je zatvoren")
+            if status == Status.KIPER.value:
+                print("Prozor je otvoren na kip")
             lsm = LSM303Dto()
             lsm.x = str(xCal)
             lsm.y = str(yCal)
@@ -118,5 +131,53 @@ class LSM303:
         else:
             return False
 
+    def checkReferentPoints(self, xCal, yCal, zCal):
+        if self.readingStatus != -1:
+            print("Using window referent points")
+            if self.avg10 < 10:
+                self.xStatus.append(xCal)
+                self.yStatus.append(yCal)
+                self.zStatus.append(zCal)
+                self.avg10 += 1
+            else:
+                xAvg = 0
+                yAvg = 0
+                zAvg = 0
+                for i in self.xStatus:
+                    xAvg += i
+
+                for i in self.yStatus:
+                    yAvg += i
+
+                for i in self.zStatus:
+                    zAvg += i
+
+                xAvg /= self.avg10
+                yAvg /= self.avg10
+                zAvg /= self.avg10
+                print(xAvg)
+                print(yAvg)
+                print(zAvg)
+
+                self.calibration.setWindowStatus(xAvg, yAvg, zAvg, self.readingStatus)
+                print("Windows points saved for status {}".format(self.readingStatus))
+                self.readingStatus = -1
+                self.xStatus = []
+                self.yStatus = []
+                self.zStatus = []
+                self.avg10 = 0
+
+    def calculateStatus(self, x, y, z):
+        currentVector = int(math.sqrt(math.pow((x + y + z), 2)))
+        zatvorenVector = abs(self.zatvoren.vector - currentVector)
+        otvorenVector = abs(self.otvoren.vector - currentVector)
+        kipVector = abs(self.kip.vector - currentVector)
+
+        if zatvorenVector < otvorenVector and zatvorenVector < kipVector:
+            return 2
+        if otvorenVector < zatvorenVector and otvorenVector < kipVector:
+            return 1
+        if kipVector < zatvorenVector and kipVector < otvorenVector:
+            return 3
 
 
