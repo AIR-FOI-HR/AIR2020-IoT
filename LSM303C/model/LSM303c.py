@@ -5,10 +5,11 @@ import adafruit_lsm303dlh_mag
 import smbus
 from model.dto.LSM303Dto import LSM303Dto
 import numpy as np
+from service.CalibrationService import CalibrationService
+import math
 
 
 class Registers:
-
     LSM = 0x1E
     CTRL_REG1 = 0x20
     CTRL_REG2 = 0x21
@@ -34,18 +35,25 @@ class LSM303:
         self.oldX = None
         self.oldY = None
         self.oldZ = None
+
+        self.readingStatus = -1
+        self.xStatus = []
+        self.yStatus = []
+        self.zStatus = []
+        self.avg10 = 0
         self.bus = smbus.SMBus(1)
         self.default_setup()
         print("LSM303C I2C initialized")
-
+        self.calibration = CalibrationService()
 
     def default_setup(self):
         self.configuration1_25()
         self.bus.write_byte_data(Registers.LSM, Registers.CTRL_REG3, 0x00)
         self.bus.write_byte_data(Registers.LSM, Registers.CTRL_REG5, 0x00)
-        self.bus.write_byte_data(Registers.LSM, Registers.CTRL_REG2, 0x00)
+        self.bus.write_byte_data(Registers.LSM, Registers.CTRL_REG2, 0x60)
 
     def read_data(self):
+        pass
         #mag_x, mag_y, mag_z = self.sensor.magnetic
         #lsm = LSM303Dto(mag_x, mag_y, mag_z)
         # return lsm.getJson()
@@ -61,15 +69,28 @@ class LSM303:
         x = (np.int16)(int(xh) << 8) | int(xl)
         y = (np.int16)(int(yh) << 8) | int(yl)
         z = (np.int16)(int(zh) << 8) | int(zl)
+
         if self.oldX != x or self.oldY != y or self.oldZ != z:
             self.oldX = x
             self.oldY = y
             self.oldZ = z
             print("{}, {}, {}".format(x, y, z))
-            lsm = LSM303Dto(x, y, z)
+            xCal, yCal, zCal = self.calibration.calibrateValues(int(x), int(y), int(z))
+            lsm = LSM303Dto()
+            lsm.x = str(xCal)
+            lsm.y = str(yCal)
+            lsm.z = str(zCal)
             return lsm.getJson()
         else:
             return None
+
+    def startCalibration(self):
+        self.calibration.startCalibration()
+
+
+    def setReadingStatus(self, status):
+        self.readingStatus = status
+
 
     def configuration1_25(self):
         self.bus.write_byte_data(Registers.LSM, Registers.CTRL_REG1, 0xC4)
@@ -88,6 +109,7 @@ class LSM303:
         else:
             return False
 
+
     def configuration80(self):
         self.bus.write_byte_data(Registers.LSM, Registers.CTRL_REG1, 0x2E)
         val = self.bus.read_byte_data(Registers.LSM, Registers.CTRL_REG1)
@@ -95,4 +117,6 @@ class LSM303:
             return True
         else:
             return False
+
+
 

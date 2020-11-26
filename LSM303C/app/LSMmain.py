@@ -1,17 +1,21 @@
-from LSM303C.model.dto.LSM303Dto import LSM303Dto
-from LSM303C.service import MqttClient
-from time import sleep as delay
-from threading import Thread
-import json
 from datetime import datetime as dt
+from threading import Thread
+from time import sleep as delay
+
+from model.LSM303c import LSM303
+from model.dto.LSM303Dto import LSM303Dto
+from service import MqttClient
+from service.CalibrationService import CalibrationService
+
 
 class Main(Thread):
+
     validRange = 5
 
     def __init__(self, mqtt: MqttClient):
         Thread.__init__(self)
-
-
+        self.calibrationService = CalibrationService()
+        self.lsm = LSM303()
         self.mqtt = mqtt
         self.x = []
         self.y = []
@@ -34,80 +38,72 @@ class Main(Thread):
     def run(self):
         self.mqtt.start()
         print("MQTT initialized!")
-        i = 1
-        validPoints = 0
-        calibrate = True
-        calibrationDone = False
 
         while True:
             msg = self.mqtt.getFromQueue()
+            self.lsm.readMag()
             if msg != None:
                 topic, values = msg.split(";")
-                timeNow = dt.now().strftime("%H:%M:%S %Y-%m-%d")
-                # print("{} | Message received on topic {}".format(timeNow, topic))
-                lsmDto = LSM303Dto().serialize(values, ignoreProperties=False)
-                # print("{} {} {}".format(lsmDto.x, lsmDto.y, lsmDto.z))
-                xRaw = int(lsmDto.x)
-                yRaw = int(lsmDto.y)
-                zRaw = int(lsmDto.z)
 
-                if calibrate:
-                    if len(self.xArr) == 0:
-                        self.xArr.append(xRaw)
-                        self.yArr.append(yRaw)
-                        self.zArr.append(zRaw)
-                        validPoints += 1
-                    else:
-                        xValid = True
-                        yValid = True
-                        zValid = True
-                        for i in self.xArr:
-                            if (abs(i - xRaw) < self.validRange):
-                                xValid = False
+                if topic == MqttClient._topic:
+                    val: int = 0
+                    try:
+                        val = int(values)
+                    except Exception as e:
+                        print(e)
 
-                        for i in self.yArr:
-                            if (abs(i - yRaw) < self.validRange):
-                                yValid = False
-
-                        for i in self.zArr:
-                            if (abs(i - zRaw) < self.validRange):
-                                zValid = False
-
-                        if xValid and yValid and zValid:
-                            self.xArr.append(xRaw)
-                            self.yArr.append(yRaw)
-                            self.zArr.append(zRaw)
-                            validPoints += 1
-
-                print("_______________________________________Valid points: {}".format(validPoints))
-                if not calibrationDone:
-                    if validPoints >= 50:
-                        calibrate = False
-                        calibrationDone = True
-                        print("X: {} {}".format(max(self.xArr), min(self.xArr)))
-                        print("y: {} {}".format(max(self.yArr), min(self.yArr)))
-                        print("z: {} {}".format(max(self.zArr), min(self.zArr)))
-                        self.offsetX = (max(self.xArr) - min(self.xArr)) / 2
-                        self.offsetY = (max(self.yArr) - min(self.yArr)) / 2
-                        self.offsetZ = (max(self.zArr) - min(self.zArr)) / 2
-
-                        offsetAvg = (self.offsetX + self.offsetY + self.offsetZ) / 3
-
-                        self.scaleX = offsetAvg / self.offsetX
-                        self.scaleY = offsetAvg / self.offsetY
-                        self.scaleZ = offsetAvg / self.offsetZ
+                    if val == 125:
+                        self.lsm.configuration1_25()
+                    if val == 10:
+                        self.lsm.configuration10()
+                    if val == 80:
+                        self.lsm.configuration80()
+                    if values == 'calibrate':
+                        self.lsm.startCalibration()
 
                 else:
-                    calibratedX = (xRaw - self.offsetX)  # * self.scaleX
-                    calibratedY = (yRaw - self.offsetY)  # * self.scaleY
-                    calibratedZ = (zRaw - self.offsetZ)  # * self.scaleZ
+                    timeNow = dt.now().strftime("%H:%M:%S %Y-%m-%d")
+                    # print("{} | Message received on topic {}".format(timeNow, topic))
+                    lsmDto = LSM303Dto().serialize(values, ignoreProperties=False)
+                    # print("{} {} {}".format(lsmDto.x, lsmDto.y, lsmDto.z))
+                    xRaw = int(float(lsmDto.x))
+                    yRaw = int(float(lsmDto.y))
+                    zRaw = int(float(lsmDto.z))
+            delay(0.5)
 
-                    print("{}, {}, {}".format(calibratedX, calibratedY, calibratedZ))
 
-                self.x.append(lsmDto.x)
-                self.y.append(lsmDto.y)
-                self.z.append(lsmDto.z)
-                self.counter.append(i)
-                i += 1
+        #"""
+    def appendCSV(self, fileName, *args):
+        content = ""
+        for a in args:
+            content += a + ";"
 
-            delay(0.1)
+        f = open(fileName, 'a')
+        f.write(content + "\n")
+        f.close()
+
+    def writeFile(self, *args):
+        content = ""
+        for a in args:
+            content += str(a) + ";"
+
+        f = open('calibration.txt', 'w')
+        f.write(content + "\n")
+        f.close()
+
+    def readCSV(self, filename):
+        lines = []
+        with open(filename, 'r') as f:
+            for line in f:
+                lines.append(line)
+        lineCnt = 1
+        for l in lines:
+            time, x, y, z, n = l.split(";")
+            self.x.append(x)
+            self.y.append(y)
+            self.z.append(z)
+            self.time.append(time)
+            self.counter.append(lineCnt)
+            lineCnt += 1
+        #print(self.x)
+
