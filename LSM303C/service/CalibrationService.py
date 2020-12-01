@@ -3,13 +3,14 @@ from model.entity.Calibration import Calibration as EntityCalibration
 from utilities.DBUtil import DBUtil
 from model.entity.WindowsStatus import WindowsStatus, Status
 from model.dto.WindowStatusDto import WindowStatusDto
+from service.LEDService import LEDService, MODS
 
 POINTS = 30
 RANGE = 5
 
 class CalibrationService:
 
-    def __init__(self):
+    def __init__(self, ledService = None):
         self.calibration = Calibration(POINTS, RANGE)
         cal: EntityCalibration = self.getCalibration()
         self.calibrationStarted = False
@@ -20,6 +21,9 @@ class CalibrationService:
             self.calibration.setScale(cal.scale_x, cal.scale_y, cal.scale_z)
         self.calibrationValid = self.calibration.checkCalibration()
 
+        if ledService is not None:
+            self.ledService = ledService
+
 
 
     def startCalibration(self):
@@ -29,6 +33,7 @@ class CalibrationService:
     def calibrateValues(self, x, y, z):
         if self.calibrationStarted:
             print("Calibration start")
+            self.ledService.setMode(MODS.CALIBRATION.value)
             done, x, y, z = self.calibration.calibrate(x, y, z)
             if done:
                 ox, oy, oz = self.calibration.calculateOffset()
@@ -39,7 +44,11 @@ class CalibrationService:
                 entity = EntityCalibration.create(ox, oy, oz, sx, sy, sz)
                 print("offsets: {}, {}, {}".format(entity.offset_x, entity.offset_y, entity.offset_z))
                 print("scales: {}, {}, {}".format(entity.scale_x, entity.scale_y, entity.scale_z))
-                self.insertToDB(entity)
+                tempStatus = self.insertToDB(entity)
+                if tempStatus:
+                    self.ledService.setMode(MODS.OK.value)
+                else:
+                    self.ledService.setMode(MODS.ERROR.value)
                 self.calibrationStarted = False
                 print("Calibration done")
             return x, y, z
@@ -52,6 +61,9 @@ class CalibrationService:
         inserted = DBUtil.insert(model)
         if inserted:
             print("Calibration saved!")
+            return True
+        else:
+            return False
 
     def getCalibration(self):
         try:
@@ -70,10 +82,16 @@ class CalibrationService:
         winStatus = WindowsStatus.create(int(float(x)), int(float(y)), int(float(z)), status)
         print(winStatus)
         entity = DBUtil.findByStatus(WindowsStatus, status)
+        tempStatus = False
         if entity is None:
-            DBUtil.insert(winStatus)
+            tempStatus = DBUtil.insert(winStatus)
         else:
-            DBUtil.updateWindowsStatus(WindowsStatus, winStatus)
+            tempStatus = DBUtil.updateWindowsStatus(WindowsStatus, winStatus)
+
+        if tempStatus:
+            self.ledService.setMode(MODS.OK.value)
+        else:
+            self.ledService.setMode(MODS.ERROR.value)
 
     def getAllWindowsStatuses(self):
         list = DBUtil.findAll(WindowsStatus)

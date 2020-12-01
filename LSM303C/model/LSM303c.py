@@ -8,6 +8,7 @@ import numpy as np
 from service.CalibrationService import CalibrationService
 import math
 from model.entity.WindowsStatus import Status
+from service.LEDService import LEDService, MODS
 
 
 class Registers:
@@ -45,7 +46,9 @@ class LSM303:
         self.bus = smbus.SMBus(1)
         self.default_setup()
         print("LSM303C I2C initialized")
-        self.calibration = CalibrationService()
+        self.ledService = LEDService()
+        self.ledService.start()
+        self.calibration = CalibrationService(ledService=self.ledService)
         self.otvoren = None
         self.zatvoren = None
         self.kip = None
@@ -133,6 +136,7 @@ class LSM303:
 
     def checkReferentPoints(self, xCal, yCal, zCal):
         if self.readingStatus != -1:
+            self.ledService.setMode(MODS.REFERENT.value)
             print("Using window referent points")
             if self.avg10 < 10:
                 self.xStatus.append(xCal)
@@ -166,6 +170,8 @@ class LSM303:
                 self.yStatus = []
                 self.zStatus = []
                 self.avg10 = 0
+
+            self.otvoren, self.zatvoren, self.kip = self.calibration.getAllWindowsStatuses()
 
     def calculateStatus(self, x, y, z):
         currentVector = int(math.sqrt(math.pow((x + y + z), 2)))
