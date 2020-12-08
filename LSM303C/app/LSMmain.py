@@ -6,7 +6,7 @@ from model.LSM303c import LSM303
 from model.dto.LSM303Dto import LSM303Dto
 from service import MqttClient
 from service.CalibrationService import CalibrationService
-from service.client.AzureClient import AzureClient
+from service.clients.AzureClient import AzureClient
 import asyncio
 
 class Main(Thread):
@@ -40,50 +40,42 @@ class Main(Thread):
     def run(self):
         self.mqtt.start()
         self.client = AzureClient(self.connStr)
+        self.azureService = self.client.getClient()
+        self.client.connect()
         print("MQTT initialized!")
 
         while True:
-            msg = self.mqtt.getFromQueue()
+            msg = self.azureService.getFromQueue()
             jsonMsg = self.lsm.readMag()
             if jsonMsg is not None:
-                asyncio.run(self.client.publishMessage(jsonMsg))
+                asyncio.run(self.client.publish(jsonMsg))
             if msg != None:
-                topic, values = msg.split(";")
+                values = msg
 
-                if topic == MqttClient._topic:
-                    val: int = 0
-                    try:
-                        val = int(values)
-                    except Exception as e:
-                        print(e)
 
-                    if val == 125:
-                        self.lsm.configuration1_25()
-                    if val == 10:
-                        self.lsm.configuration10()
-                    if val == 80:
-                        self.lsm.configuration80()
-                    if values == 'calibrate':
-                        self.lsm.startCalibration()
-                    if values == 'otvoren':
-                        self.lsm.setReadingStatus(1)
-                    if values == 'zatvoren':
-                        self.lsm.setReadingStatus(2)
-                    if values == 'kip':
-                        self.lsm.setReadingStatus(3)
+                val: int = 0
+                try:
+                    val = int(values)
+                except Exception as e:
+                    print(e)
 
-                else:
-                    timeNow = dt.now().strftime("%H:%M:%S %Y-%m-%d")
-                    # print("{} | Message received on topic {}".format(timeNow, topic))
-                    lsmDto = LSM303Dto().serialize(values, ignoreProperties=False)
-                    # print("{} {} {}".format(lsmDto.x, lsmDto.y, lsmDto.z))
-                    xRaw = int(float(lsmDto.x))
-                    yRaw = int(float(lsmDto.y))
-                    zRaw = int(float(lsmDto.z))
+                if val == 125:
+                    self.lsm.configuration1_25()
+                if val == 10:
+                    self.lsm.configuration10()
+                if val == 80:
+                    self.lsm.configuration80()
+                if values == 'calibrate':
+                    self.lsm.startCalibration()
+                if values == 'otvoren':
+                    self.lsm.setReadingStatus(1)
+                if values == 'zatvoren':
+                    self.lsm.setReadingStatus(2)
+                if values == 'kip':
+                    self.lsm.setReadingStatus(3)
+
             delay(0.5)
 
-
-        #"""
     def appendCSV(self, fileName, *args):
         content = ""
         for a in args:
