@@ -1,24 +1,23 @@
+import asyncio
 from datetime import datetime as dt
 from threading import Thread
 from time import sleep as delay
 
 from model.LSM303c import LSM303
-from model.dto.LSM303Dto import LSM303Dto
-from service import MqttClient
 from service.CalibrationService import CalibrationService
 from service.clients.AzureClient import AzureClient
-import asyncio
+
+TIME_DIFFERENCE = 60
 
 class Main(Thread):
 
     validRange = 5
     connStr = "HostName=AirAnalyzerSensors.azure-devices.net;DeviceId=LSM303c;SharedAccessKey=KWeXDVKTPRmoESeKAy3oa6xe4kXKiRhV8GgHDHD1jpQ="
 
-    def __init__(self, mqtt: MqttClient):
+    def __init__(self):
         Thread.__init__(self)
         self.calibrationService = CalibrationService()
         self.lsm = LSM303()
-        self.mqtt = mqtt
         self.x = []
         self.y = []
         self.z = []
@@ -36,19 +35,26 @@ class Main(Thread):
         self.scaleX = None
         self.scaleY = None
         self.scaleZ = None
+        self.lastTimeSend = 0
 
     def run(self):
-        self.mqtt.start()
         self.client = AzureClient(self.connStr)
-        self.azureService = self.client.getClient()
-        self.client.connect()
-        print("MQTT initialized!")
+        asyncio.run(self.client.connect())
+        print("Azure initialized!")
 
         while True:
-            msg = self.azureService.getFromQueue()
+            msg = self.client.getFromQueue()
             jsonMsg = self.lsm.readMag()
-            if jsonMsg is not None:
-                asyncio.run(self.client.publish(jsonMsg))
+
+            currentTime = dt.now()
+            diff = None
+            if self.lastTimeSend != 0:
+                diff = currentTime - self.lastTimeSend
+            if self.lastTimeSend == 0 or (diff != None and diff.seconds > TIME_DIFFERENCE):
+                if jsonMsg is not None:
+                    asyncio.run(self.client.publish(jsonMsg))
+                    self.lastTimeSend = currentTime
+
             if msg != None:
                 values = msg
 

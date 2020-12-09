@@ -9,6 +9,8 @@ from service.CalibrationService import CalibrationService
 import math
 from model.entity.WindowsStatus import Status
 from service.LEDService import LEDService, MODS
+from service.GenericService import GenericService
+from datetime import datetime as dt
 
 
 class Registers:
@@ -54,6 +56,8 @@ class LSM303:
         self.kip = None
         self.otvoren, self.zatvoren, self.kip = self.calibration.getAllWindowsStatuses()
 
+        self.uuid = GenericService.getUUID()
+
     def default_setup(self):
         self.configuration1_25()
         self.bus.write_byte_data(Registers.LSM, Registers.CTRL_REG3, 0x00)
@@ -96,6 +100,8 @@ class LSM303:
             lsm.x = str(xCal)
             lsm.y = str(yCal)
             lsm.z = str(zCal)
+            lsm.status = status
+            lsm.uuid = self.uuid
             return lsm.getJson()
         else:
             return None

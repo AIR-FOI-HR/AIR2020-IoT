@@ -1,14 +1,12 @@
-from main import app, db
 from app.LSMmain import Main
-from service import MqttClient
+from main import app
 from service.InitializeService import InitializeService
 
 
 def initialize():
     print("initializing")
     InitializeService.initialize()
-    mqtt = MqttClient.Mqtt(MqttClient._topic)
-    main = Main(mqtt)
+    main = Main()
     main.start()
 
 

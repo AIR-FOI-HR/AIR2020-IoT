@@ -63,3 +63,7 @@ class DBUtil:
             return False
 
 
+    @staticmethod
+    def findByName(clazz, name):
+        entity = clazz.query.filter_by(name=name).one_or_none()
+        return entity
