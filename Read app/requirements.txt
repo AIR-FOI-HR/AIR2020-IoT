@@ -1,0 +1,7 @@
+paho-mqtt
+flask
+flask_sqlalchemy
+azure-iot-device
+azure-iot-hub
+azure-eventhub
+requests
