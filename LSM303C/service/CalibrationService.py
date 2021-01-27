@@ -1,6 +1,6 @@
+from utilities.DBUtil import DBUtil
 from utilities.Calibration import Calibration
 from model.entity.Calibration import Calibration as EntityCalibration
-from utilities.DBUtil import DBUtil
 from model.entity.WindowsStatus import WindowsStatus, Status
 from model.dto.WindowStatusDto import WindowStatusDto
 from service.LEDService import LEDService, MODS
@@ -16,11 +16,10 @@ class CalibrationService:
         self.calibrationStarted = False
         self.calibrationDone = False
         if cal is not None:
-            print("Calibration loaded")
+            print("Calibracija ucitana")
             self.calibration.setOffset(cal.offset_x, cal.offset_y, cal.offset_z)
             self.calibration.setScale(cal.scale_x, cal.scale_y, cal.scale_z)
         self.calibrationValid = self.calibration.checkCalibration()
-
         if ledService is not None:
             self.ledService = ledService
 
@@ -93,6 +92,7 @@ class CalibrationService:
         else:
             self.ledService.setMode(MODS.ERROR.value)
 
+
     def getAllWindowsStatuses(self):
         list = DBUtil.findAll(WindowsStatus)
         otvoren = WindowStatusDto()
@@ -107,3 +107,6 @@ class CalibrationService:
                 kip.fromEntity(i)
 
         return otvoren, zatvoren, kip
+
+
+

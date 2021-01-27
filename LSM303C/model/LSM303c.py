@@ -11,6 +11,7 @@ from model.entity.WindowsStatus import Status
 from service.LEDService import LEDService, MODS
 from service.GenericService import GenericService
 from datetime import datetime as dt
+from azure.iot.device import Message
 
 
 class Registers:
@@ -51,11 +52,11 @@ class LSM303:
         self.ledService = LEDService()
         self.ledService.start()
         self.calibration = CalibrationService(ledService=self.ledService)
+
         self.otvoren = None
         self.zatvoren = None
         self.kip = None
         self.otvoren, self.zatvoren, self.kip = self.calibration.getAllWindowsStatuses()
-
         self.uuid = GenericService.getUUID()
 
     def default_setup(self):
@@ -88,21 +89,27 @@ class LSM303:
             self.oldZ = z
             print("{}, {}, {}".format(x, y, z))
             xCal, yCal, zCal = self.calibration.calibrateValues(int(x), int(y), int(z))
+
             self.checkReferentPoints(xCal, yCal, zCal)
             status = self.calculateStatus(xCal, yCal, zCal)
             if status == Status.OTVOREN.value:
-                print("Window is open")
+                print("Prozor je otvoren")
             if status == Status.ZATVOREN.value:
-                print("Window is closed")
+                print("Prozor je zatvoren")
             if status == Status.KIPER.value:
-                print("Window is partially open")
+                print("Prozor je otvoren na kip")
+
             lsm = LSM303Dto()
             lsm.x = str(xCal)
             lsm.y = str(yCal)
             lsm.z = str(zCal)
             lsm.status = status
             lsm.uuid = self.uuid
-            return lsm.getJson()
+            lsm.created = int(dt.now().timestamp())
+            print("Drekooooo" + str(lsm.created))
+            message = Message(lsm.getJson())
+            print(message)
+            return message
         else:
             return None
 
@@ -139,6 +146,7 @@ class LSM303:
             return True
         else:
             return False
+
 
     def checkReferentPoints(self, xCal, yCal, zCal):
         if self.readingStatus != -1:
@@ -180,6 +188,7 @@ class LSM303:
             self.otvoren, self.zatvoren, self.kip = self.calibration.getAllWindowsStatuses()
 
     def calculateStatus(self, x, y, z):
+        print("Status {}, {}, {}".format(x, y, z))
         if self.zatvoren.vector == None or self.otvoren.vector == None or self.kip.vector == None:
             pass
         else:
@@ -194,5 +203,4 @@ class LSM303:
                 return 1
             if kipVector < zatvorenVector and kipVector < otvorenVector:
                 return 3
-
 

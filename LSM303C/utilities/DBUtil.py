@@ -43,6 +43,10 @@ class DBUtil:
         entity = clazz.query.filter_by(status=s).one_or_none()
         return entity
 
+    @staticmethod
+    def findByName(clazz, name):
+        entity = clazz.query.filter_by(name=name).one_or_none()
+        return entity
 
     @staticmethod
     def updateWindowsStatus(clazz, tempEntity):
@@ -60,10 +64,6 @@ class DBUtil:
                 db.session.rollback()
                 print("Query rollbacked!")
                 print(e)
-            return False
+        return False
 
 
-    @staticmethod
-    def findByName(clazz, name):
-        entity = clazz.query.filter_by(name=name).one_or_none()
-        return entity

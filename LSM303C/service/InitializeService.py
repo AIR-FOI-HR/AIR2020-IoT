@@ -6,6 +6,7 @@ from utilities.DBUtil import DBUtil
 
 class InitializeService:
 
+
     def __init__(self):
         pass
 
@@ -17,3 +18,4 @@ class InitializeService:
         if uuid is None:
             uuid = UUID.create(NAME)
             DBUtil.insert(uuid)
+
