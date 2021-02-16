@@ -25,7 +25,7 @@ class AzureBmeDto:
 
     def generateJson(self):
         azureJson = {
-            'Uuid': self.uuid,
+            'uuid': self.uuid,
             'Temperature': self.temperature,
             'Humidity': self.humidity,
             'Air pressure': self.pressure,

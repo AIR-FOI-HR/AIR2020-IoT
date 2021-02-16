@@ -70,9 +70,9 @@ class AppMain(Thread):
         while True:
             reading = self.bmeController.read_data()
             send, model = self.send(reading)
-            print(model)
             try:
                 if send:
+                    print(model)
                     asyncio.run(self.client.publish(model))
             except Exception as e:
                 print(e)
@@ -86,7 +86,7 @@ class AppMain(Thread):
         else:
             diff = dt.now() - self.lastTimeSent
             print("Seconds dif: {}".format(diff.seconds))
-            if diff.seconds > 1800:
+            if diff.seconds > 60:
                 azureDto = AzureBmeDto()
                 azureDto.create(self.devId, dto, MapQuality.mapValue(dto.gas))
                 self.lastTimeSent = dt.now()
