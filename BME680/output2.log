@@ -1,0 +1,11158 @@
+BME680 I2C initialized!
+Main initalized! DeviceUUID[67d61432-86b0-45e2-b2da-4deffd6a550c]
+ * Serving Flask app "helper" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+None
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 20
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 46
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 72
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 98
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 124
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 150
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 176
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 202
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 228
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 275
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 301
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 327
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 353
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 379
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 405
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 431
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 457
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 504
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 530
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 556
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 582
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 608
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 634
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 660
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 686
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 712
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 759
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 785
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 811
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 837
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 863
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 889
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 915
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 941
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 967
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 988
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1014
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1040
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1066
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1092
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1118
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1144
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1170
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1196
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1243
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1269
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1295
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1321
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1347
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1373
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1399
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1425
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1472
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1498
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1524
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1550
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1576
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1602
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1628
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1654
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1680
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1701
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1727
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1753
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1779
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1805
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.8544140625, "Humidity": 68.9418454074929, "Air pressure": 1012.1015225779863, "Air quality": {"value": 438618, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.8544140625, "Humidity": 68.9418454074929, "Air pressure": 1012.1015225779863, "Air quality": {"value": 438618, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 20
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 504
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.8301953125, "Humidity": 69.5218455216694, "Air pressure": 1011.9352061862191, "Air quality": {"value": 440929, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.8301953125, "Humidity": 69.5218455216694, "Air pressure": 1011.9352061862191, "Air quality": {"value": 440929, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 21
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 505
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1218
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1447
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.79640625, "Humidity": 69.81940824120231, "Air pressure": 1011.6147408893864, "Air quality": {"value": 441511, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.79640625, "Humidity": 69.81940824120231, "Air pressure": 1011.6147408893864, "Air quality": {"value": 441511, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 20
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 46
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 72
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 275
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 301
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 504
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 530
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 556
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 759
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 785
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 988
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1014
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1243
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1269
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1472
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1498
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1701
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1727
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1753
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.7809765625, "Humidity": 69.6862465544746, "Air pressure": 1011.2194039611551, "Air quality": {"value": 437185, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.7809765625, "Humidity": 69.6862465544746, "Air pressure": 1011.2194039611551, "Air quality": {"value": 437185, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 21
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 172
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 198
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 224
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 250
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 427
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 453
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 479
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 505
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 682
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 708
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 734
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 911
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 937
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 963
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1140
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1166
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1192
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1218
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1369
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1395
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1421
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1447
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1598
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1624
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1650
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1676
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.8149609375, "Humidity": 69.51262810746013, "Air pressure": 1010.572649281278, "Air quality": {"value": 437185, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.8149609375, "Humidity": 69.51262810746013, "Air pressure": 1010.572649281278, "Air quality": {"value": 437185, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 20
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 46
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 275
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 504
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1701
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.7528515625, "Humidity": 69.74385694589313, "Air pressure": 1010.267066055636, "Air quality": {"value": 436330, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.7528515625, "Humidity": 69.74385694589313, "Air pressure": 1010.267066055636, "Air quality": {"value": 436330, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 21
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 146
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 172
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 198
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 224
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 250
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 375
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 401
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 427
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 453
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 479
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 505
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 604
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 630
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 656
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 682
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 708
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 734
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 833
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 859
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 885
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 911
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 937
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 963
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1192
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1218
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1421
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1447
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1624
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1650
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1676
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.695234375, "Humidity": 70.15521906947285, "Air pressure": 1010.0488322233819, "Air quality": {"value": 438330, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.695234375, "Humidity": 70.15521906947285, "Air pressure": 1010.0488322233819, "Air quality": {"value": 438330, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 20
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 46
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 275
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 504
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 759
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 988
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6676953125, "Humidity": 70.43385857779101, "Air pressure": 1009.5044816891543, "Air quality": {"value": 437757, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6676953125, "Humidity": 70.43385857779101, "Air pressure": 1009.5044816891543, "Air quality": {"value": 437757, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 16
+None
+Seconds dif: 21
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 42
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 68
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 94
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 120
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 146
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 167
+None
+Seconds dif: 172
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 193
+None
+Seconds dif: 198
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 219
+None
+Seconds dif: 224
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 245
+None
+Seconds dif: 250
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 271
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 297
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 323
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 349
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 375
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 396
+None
+Seconds dif: 401
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 422
+None
+Seconds dif: 427
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 448
+None
+Seconds dif: 453
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 474
+None
+Seconds dif: 479
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 500
+None
+Seconds dif: 505
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 526
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 552
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 578
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 599
+None
+Seconds dif: 604
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 625
+None
+Seconds dif: 630
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 651
+None
+Seconds dif: 656
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 677
+None
+Seconds dif: 682
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 703
+None
+Seconds dif: 708
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 729
+None
+Seconds dif: 734
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 755
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 781
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 807
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 833
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 859
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 885
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 906
+None
+Seconds dif: 911
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 932
+None
+Seconds dif: 937
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 958
+None
+Seconds dif: 963
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 984
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1010
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1036
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1062
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1088
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1114
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1135
+None
+Seconds dif: 1140
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1161
+None
+Seconds dif: 1166
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1187
+None
+Seconds dif: 1192
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1213
+None
+Seconds dif: 1218
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1239
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1265
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1291
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1317
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1343
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1364
+None
+Seconds dif: 1369
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1390
+None
+Seconds dif: 1395
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1416
+None
+Seconds dif: 1421
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1442
+None
+Seconds dif: 1447
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1468
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1494
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1520
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1546
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1572
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1593
+None
+Seconds dif: 1598
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1619
+None
+Seconds dif: 1624
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1645
+None
+Seconds dif: 1650
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1671
+None
+Seconds dif: 1676
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1697
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1723
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1749
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1775
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1796
+None
+Seconds dif: 1801
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6594921875, "Humidity": 70.8818249613768, "Air pressure": 1009.2936307764539, "Air quality": {"value": 434630, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6594921875, "Humidity": 70.8818249613768, "Air pressure": 1009.2936307764539, "Air quality": {"value": 434630, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 20
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 46
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 275
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 301
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 327
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 353
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 504
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 530
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 556
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 582
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 759
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 785
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 811
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 988
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1014
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1040
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1243
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1269
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1472
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1498
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1701
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1727
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6675, "Humidity": 71.45112545187013, "Air pressure": 1008.9545368914027, "Air quality": {"value": 431826, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6675, "Humidity": 71.45112545187013, "Air pressure": 1008.9545368914027, "Air quality": {"value": 431826, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 21
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 198
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 224
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 250
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 427
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 453
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 479
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 505
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 682
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 708
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 734
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 911
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 937
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 963
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1140
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1166
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1192
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1218
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1369
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1395
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1421
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1447
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1624
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1650
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1676
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6512890625, "Humidity": 71.4693987870869, "Air pressure": 1008.6473716604619, "Air quality": {"value": 431270, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6512890625, "Humidity": 71.4693987870869, "Air pressure": 1008.6473716604619, "Air quality": {"value": 431270, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 20
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 46
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 275
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 301
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 504
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 530
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 759
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 785
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 988
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1014
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1243
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1269
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1472
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1498
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1701
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1727
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.637421875, "Humidity": 71.32160458752033, "Air pressure": 1008.0494384953574, "Air quality": {"value": 432944, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.637421875, "Humidity": 71.32160458752033, "Air pressure": 1008.0494384953574, "Air quality": {"value": 432944, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 21
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 224
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 250
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 453
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 479
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 505
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 682
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 708
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 734
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 911
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 937
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 963
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1243
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1269
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1295
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1321
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1347
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1373
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1472
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1498
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1524
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1550
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1576
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1602
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1701
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1727
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1753
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1779
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1805
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6305859375, "Humidity": 71.2235083465895, "Air pressure": 1008.1084055083514, "Air quality": {"value": 437471, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6305859375, "Humidity": 71.2235083465895, "Air pressure": 1008.1084055083514, "Air quality": {"value": 437471, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 21
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 68
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 94
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 120
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 146
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 172
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 198
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 224
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 250
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 297
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 323
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 349
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 375
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 401
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 427
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 453
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 479
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 505
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 630
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 656
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 682
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 708
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 734
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 859
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 885
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 911
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 937
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 963
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1088
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1114
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1140
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1166
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1192
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1218
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1317
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1343
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1369
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1395
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1421
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1447
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1572
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1598
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1624
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1650
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1676
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1801
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6137890625, "Humidity": 71.46353189576962, "Air pressure": 1007.7182940939012, "Air quality": {"value": 439482, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6137890625, "Humidity": 71.46353189576962, "Air pressure": 1007.7182940939012, "Air quality": {"value": 439482, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 20
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 223
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 249
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 275
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 301
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 327
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 353
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 379
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 452
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 478
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 504
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 530
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 556
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 582
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 608
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 707
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 733
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 759
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 785
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 811
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 936
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 962
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 988
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1014
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1040
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1165
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1191
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1217
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1243
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1269
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1295
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1420
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1446
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1472
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1498
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1524
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1550
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1649
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1675
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1701
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1727
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1753
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1779
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6055859375, "Humidity": 71.33742830266178, "Air pressure": 1007.4414730353092, "Air quality": {"value": 441802, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.6055859375, "Humidity": 71.33742830266178, "Air pressure": 1007.4414730353092, "Air quality": {"value": 441802, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
+None
+Seconds dif: 10
+None
+Seconds dif: 15
+None
+Seconds dif: 21
+None
+Seconds dif: 26
+None
+Seconds dif: 31
+None
+Seconds dif: 36
+None
+Seconds dif: 41
+None
+Seconds dif: 47
+None
+Seconds dif: 52
+None
+Seconds dif: 57
+None
+Seconds dif: 62
+None
+Seconds dif: 67
+None
+Seconds dif: 73
+None
+Seconds dif: 78
+None
+Seconds dif: 83
+None
+Seconds dif: 88
+None
+Seconds dif: 93
+None
+Seconds dif: 99
+None
+Seconds dif: 104
+None
+Seconds dif: 109
+None
+Seconds dif: 114
+None
+Seconds dif: 119
+None
+Seconds dif: 125
+None
+Seconds dif: 130
+None
+Seconds dif: 135
+None
+Seconds dif: 140
+None
+Seconds dif: 145
+None
+Seconds dif: 151
+None
+Seconds dif: 156
+None
+Seconds dif: 161
+None
+Seconds dif: 166
+None
+Seconds dif: 171
+None
+Seconds dif: 177
+None
+Seconds dif: 182
+None
+Seconds dif: 187
+None
+Seconds dif: 192
+None
+Seconds dif: 197
+None
+Seconds dif: 203
+None
+Seconds dif: 208
+None
+Seconds dif: 213
+None
+Seconds dif: 218
+None
+Seconds dif: 224
+None
+Seconds dif: 229
+None
+Seconds dif: 234
+None
+Seconds dif: 239
+None
+Seconds dif: 244
+None
+Seconds dif: 250
+None
+Seconds dif: 255
+None
+Seconds dif: 260
+None
+Seconds dif: 265
+None
+Seconds dif: 270
+None
+Seconds dif: 276
+None
+Seconds dif: 281
+None
+Seconds dif: 286
+None
+Seconds dif: 291
+None
+Seconds dif: 296
+None
+Seconds dif: 302
+None
+Seconds dif: 307
+None
+Seconds dif: 312
+None
+Seconds dif: 317
+None
+Seconds dif: 322
+None
+Seconds dif: 328
+None
+Seconds dif: 333
+None
+Seconds dif: 338
+None
+Seconds dif: 343
+None
+Seconds dif: 348
+None
+Seconds dif: 354
+None
+Seconds dif: 359
+None
+Seconds dif: 364
+None
+Seconds dif: 369
+None
+Seconds dif: 374
+None
+Seconds dif: 380
+None
+Seconds dif: 385
+None
+Seconds dif: 390
+None
+Seconds dif: 395
+None
+Seconds dif: 400
+None
+Seconds dif: 406
+None
+Seconds dif: 411
+None
+Seconds dif: 416
+None
+Seconds dif: 421
+None
+Seconds dif: 426
+None
+Seconds dif: 432
+None
+Seconds dif: 437
+None
+Seconds dif: 442
+None
+Seconds dif: 447
+None
+Seconds dif: 453
+None
+Seconds dif: 458
+None
+Seconds dif: 463
+None
+Seconds dif: 468
+None
+Seconds dif: 473
+None
+Seconds dif: 479
+None
+Seconds dif: 484
+None
+Seconds dif: 489
+None
+Seconds dif: 494
+None
+Seconds dif: 499
+None
+Seconds dif: 505
+None
+Seconds dif: 510
+None
+Seconds dif: 515
+None
+Seconds dif: 520
+None
+Seconds dif: 525
+None
+Seconds dif: 531
+None
+Seconds dif: 536
+None
+Seconds dif: 541
+None
+Seconds dif: 546
+None
+Seconds dif: 551
+None
+Seconds dif: 557
+None
+Seconds dif: 562
+None
+Seconds dif: 567
+None
+Seconds dif: 572
+None
+Seconds dif: 577
+None
+Seconds dif: 583
+None
+Seconds dif: 588
+None
+Seconds dif: 593
+None
+Seconds dif: 598
+None
+Seconds dif: 603
+None
+Seconds dif: 609
+None
+Seconds dif: 614
+None
+Seconds dif: 619
+None
+Seconds dif: 624
+None
+Seconds dif: 629
+None
+Seconds dif: 635
+None
+Seconds dif: 640
+None
+Seconds dif: 645
+None
+Seconds dif: 650
+None
+Seconds dif: 655
+None
+Seconds dif: 661
+None
+Seconds dif: 666
+None
+Seconds dif: 671
+None
+Seconds dif: 676
+None
+Seconds dif: 681
+None
+Seconds dif: 687
+None
+Seconds dif: 692
+None
+Seconds dif: 697
+None
+Seconds dif: 702
+None
+Seconds dif: 708
+None
+Seconds dif: 713
+None
+Seconds dif: 718
+None
+Seconds dif: 723
+None
+Seconds dif: 728
+None
+Seconds dif: 734
+None
+Seconds dif: 739
+None
+Seconds dif: 744
+None
+Seconds dif: 749
+None
+Seconds dif: 754
+None
+Seconds dif: 760
+None
+Seconds dif: 765
+None
+Seconds dif: 770
+None
+Seconds dif: 775
+None
+Seconds dif: 780
+None
+Seconds dif: 786
+None
+Seconds dif: 791
+None
+Seconds dif: 796
+None
+Seconds dif: 801
+None
+Seconds dif: 806
+None
+Seconds dif: 812
+None
+Seconds dif: 817
+None
+Seconds dif: 822
+None
+Seconds dif: 827
+None
+Seconds dif: 832
+None
+Seconds dif: 838
+None
+Seconds dif: 843
+None
+Seconds dif: 848
+None
+Seconds dif: 853
+None
+Seconds dif: 858
+None
+Seconds dif: 864
+None
+Seconds dif: 869
+None
+Seconds dif: 874
+None
+Seconds dif: 879
+None
+Seconds dif: 884
+None
+Seconds dif: 890
+None
+Seconds dif: 895
+None
+Seconds dif: 900
+None
+Seconds dif: 905
+None
+Seconds dif: 910
+None
+Seconds dif: 916
+None
+Seconds dif: 921
+None
+Seconds dif: 926
+None
+Seconds dif: 931
+None
+Seconds dif: 937
+None
+Seconds dif: 942
+None
+Seconds dif: 947
+None
+Seconds dif: 952
+None
+Seconds dif: 957
+None
+Seconds dif: 963
+None
+Seconds dif: 968
+None
+Seconds dif: 973
+None
+Seconds dif: 978
+None
+Seconds dif: 983
+None
+Seconds dif: 989
+None
+Seconds dif: 994
+None
+Seconds dif: 999
+None
+Seconds dif: 1004
+None
+Seconds dif: 1009
+None
+Seconds dif: 1015
+None
+Seconds dif: 1020
+None
+Seconds dif: 1025
+None
+Seconds dif: 1030
+None
+Seconds dif: 1035
+None
+Seconds dif: 1041
+None
+Seconds dif: 1046
+None
+Seconds dif: 1051
+None
+Seconds dif: 1056
+None
+Seconds dif: 1061
+None
+Seconds dif: 1067
+None
+Seconds dif: 1072
+None
+Seconds dif: 1077
+None
+Seconds dif: 1082
+None
+Seconds dif: 1087
+None
+Seconds dif: 1093
+None
+Seconds dif: 1098
+None
+Seconds dif: 1103
+None
+Seconds dif: 1108
+None
+Seconds dif: 1113
+None
+Seconds dif: 1119
+None
+Seconds dif: 1124
+None
+Seconds dif: 1129
+None
+Seconds dif: 1134
+None
+Seconds dif: 1139
+None
+Seconds dif: 1145
+None
+Seconds dif: 1150
+None
+Seconds dif: 1155
+None
+Seconds dif: 1160
+None
+Seconds dif: 1166
+None
+Seconds dif: 1171
+None
+Seconds dif: 1176
+None
+Seconds dif: 1181
+None
+Seconds dif: 1186
+None
+Seconds dif: 1192
+None
+Seconds dif: 1197
+None
+Seconds dif: 1202
+None
+Seconds dif: 1207
+None
+Seconds dif: 1212
+None
+Seconds dif: 1218
+None
+Seconds dif: 1223
+None
+Seconds dif: 1228
+None
+Seconds dif: 1233
+None
+Seconds dif: 1238
+None
+Seconds dif: 1244
+None
+Seconds dif: 1249
+None
+Seconds dif: 1254
+None
+Seconds dif: 1259
+None
+Seconds dif: 1264
+None
+Seconds dif: 1270
+None
+Seconds dif: 1275
+None
+Seconds dif: 1280
+None
+Seconds dif: 1285
+None
+Seconds dif: 1290
+None
+Seconds dif: 1296
+None
+Seconds dif: 1301
+None
+Seconds dif: 1306
+None
+Seconds dif: 1311
+None
+Seconds dif: 1316
+None
+Seconds dif: 1322
+None
+Seconds dif: 1327
+None
+Seconds dif: 1332
+None
+Seconds dif: 1337
+None
+Seconds dif: 1342
+None
+Seconds dif: 1348
+None
+Seconds dif: 1353
+None
+Seconds dif: 1358
+None
+Seconds dif: 1363
+None
+Seconds dif: 1368
+None
+Seconds dif: 1374
+None
+Seconds dif: 1379
+None
+Seconds dif: 1384
+None
+Seconds dif: 1389
+None
+Seconds dif: 1394
+None
+Seconds dif: 1400
+None
+Seconds dif: 1405
+None
+Seconds dif: 1410
+None
+Seconds dif: 1415
+None
+Seconds dif: 1421
+None
+Seconds dif: 1426
+None
+Seconds dif: 1431
+None
+Seconds dif: 1436
+None
+Seconds dif: 1441
+None
+Seconds dif: 1447
+None
+Seconds dif: 1452
+None
+Seconds dif: 1457
+None
+Seconds dif: 1462
+None
+Seconds dif: 1467
+None
+Seconds dif: 1473
+None
+Seconds dif: 1478
+None
+Seconds dif: 1483
+None
+Seconds dif: 1488
+None
+Seconds dif: 1493
+None
+Seconds dif: 1499
+None
+Seconds dif: 1504
+None
+Seconds dif: 1509
+None
+Seconds dif: 1514
+None
+Seconds dif: 1519
+None
+Seconds dif: 1525
+None
+Seconds dif: 1530
+None
+Seconds dif: 1535
+None
+Seconds dif: 1540
+None
+Seconds dif: 1545
+None
+Seconds dif: 1551
+None
+Seconds dif: 1556
+None
+Seconds dif: 1561
+None
+Seconds dif: 1566
+None
+Seconds dif: 1571
+None
+Seconds dif: 1577
+None
+Seconds dif: 1582
+None
+Seconds dif: 1587
+None
+Seconds dif: 1592
+None
+Seconds dif: 1597
+None
+Seconds dif: 1603
+None
+Seconds dif: 1608
+None
+Seconds dif: 1613
+None
+Seconds dif: 1618
+None
+Seconds dif: 1623
+None
+Seconds dif: 1629
+None
+Seconds dif: 1634
+None
+Seconds dif: 1639
+None
+Seconds dif: 1644
+None
+Seconds dif: 1650
+None
+Seconds dif: 1655
+None
+Seconds dif: 1660
+None
+Seconds dif: 1665
+None
+Seconds dif: 1670
+None
+Seconds dif: 1676
+None
+Seconds dif: 1681
+None
+Seconds dif: 1686
+None
+Seconds dif: 1691
+None
+Seconds dif: 1696
+None
+Seconds dif: 1702
+None
+Seconds dif: 1707
+None
+Seconds dif: 1712
+None
+Seconds dif: 1717
+None
+Seconds dif: 1722
+None
+Seconds dif: 1728
+None
+Seconds dif: 1733
+None
+Seconds dif: 1738
+None
+Seconds dif: 1743
+None
+Seconds dif: 1748
+None
+Seconds dif: 1754
+None
+Seconds dif: 1759
+None
+Seconds dif: 1764
+None
+Seconds dif: 1769
+None
+Seconds dif: 1774
+None
+Seconds dif: 1780
+None
+Seconds dif: 1785
+None
+Seconds dif: 1790
+None
+Seconds dif: 1795
+None
+Seconds dif: 1800
+None
+Seconds dif: 1806
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.629609375, "Humidity": 71.67420620691624, "Air pressure": 1007.1915070491076, "Air quality": {"value": 434348, "quality": "Good"}}
+Trying to publish message...
+{"Uuid": "67d61432-86b0-45e2-b2da-4deffd6a550c", "Temperature": 17.629609375, "Humidity": 71.67420620691624, "Air pressure": 1007.1915070491076, "Air quality": {"value": 434348, "quality": "Good"}}
+Message sent!
+Seconds dif: 5
